@@ -1,8 +1,8 @@
 const inventario = [
-    { nombre: "Camisa", precio: 20 },
-    { nombre: "Zapatos", precio: 50 },
-    { nombre: "Pantalón", precio: 35 },
-    { nombre: "Gorra", precio: 15 }
+    { nombre: "Camisa"},
+    { nombre: "Zapatos"},
+    { nombre: "Pantalón" },
+    { nombre: "Gorra" }
 ];
 
 function buscarProducto(nombre, inventario) {
